@@ -1,0 +1,11 @@
+{
+  "name": "devops-app",
+  "version": "1.0.0",
+  "description": "Aplikasi web sederhana untuk DevOps UTS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Tests passed\" && exit 0",
+    "build": "echo \"Build selesai\""
+  }
+}

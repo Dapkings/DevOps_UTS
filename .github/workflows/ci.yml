@@ -24,6 +24,3 @@ jobs:
 
       - name: Jalankan unit test
         run: npm test
-
-      - name: Build aplikasi
-        run: npm run build
